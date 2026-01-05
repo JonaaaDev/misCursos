@@ -6,7 +6,7 @@ public class Main {
 		Scanner input = new Scanner(System.in);
 		String[]  Paises = new String [5];
 
-		System.out.println("Introduce nombres de Paises\n");
+		System.out.println("Introduce nombres de Paises.\n");
 
 		for (int i = 0; i < Paises.length; i++) {
 
@@ -14,7 +14,7 @@ public class Main {
 
 		}
 
-        System.out.println("Tu lista de paises\n");
+        System.out.println("Tu lista de Paises.\n");
 
 		for (String paises : Paises) System.out.println(paises);
 
