@@ -2,7 +2,7 @@
 lista_nombre = []
 lista = list()
 
-# tipo
+# muestra el tipo
 print(type(lista_nombre))
 print(type(lista))
 
