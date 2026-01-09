@@ -1,6 +1,5 @@
 Clear-Host
 
-# Definimos el bloque de arte en una variable (Here-String)
 $banner = @'
   ____ _   _ ____  ____   ___  ____  
  / ___| | | |  _ \/ ___| / _ \/ ___| 
@@ -15,9 +14,7 @@ $banner = @'
  \___/ \___/|_| \_|/_/   /_/   /_/   /_/
 '@
 
-# Imprimimos con un color seguro
 Write-Host $banner -ForegroundColor Cyan
 
-# Separador visual simple
 Write-Host ("-" * 45) -ForegroundColor Gray
 Write-Host " [!] Cargando panel de Jonaaa..."
