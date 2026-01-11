@@ -9,9 +9,7 @@
       "ActiveC++": false
     },
     "futuros_cursos_disponibles": {
-      "FutureSql":true
-      "FutureGameGuardian": true
-      "FutureGDscript": true      
+      "FutureSql":true   
     }
   }
 }
