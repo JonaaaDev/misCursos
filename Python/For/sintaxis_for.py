@@ -2,8 +2,8 @@
 
 # creamos una variable llamada i que es la primera letra de «iterar»
 # la variable se puede llamar como quieras
-for i in "Jonathan": # iteramos la palabra «Palabra»
-    print(i) # imprime i
+for i in "Jonathan": # iteramos la palabra «Jonathan»
+    print(i) # imprimimos i que recorre la palabra
 
 # ***se puede iterar***
 #    strings
