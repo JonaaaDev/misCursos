@@ -18,6 +18,7 @@ Objetivo es dominar las siguientes áreas:
 * **🤖 Inteligencia Artificial:** Introducción al **Machine Learning**, análisis de datos y automatización inteligente.
 
 
+# ARQUITECTURA DE CARPETAS QUE TENDRA EL PROYECTO
 ```
 Python/
 ├── 01_Fundamentos_Basicos/
@@ -77,3 +78,4 @@ Python/
     ├── Pandas/
     └── Matplotlib/
 ```
+
