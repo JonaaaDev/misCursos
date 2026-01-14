@@ -1,0 +1,19 @@
+# guardar strings
+
+# nombres pueden ser guardados
+
+nombre = "Angeline"
+
+apellido = "Alvarado"
+
+bot = "Bot 1"
+
+clan = "Mi_clan"
+
+lenguaje = "Python"
+
+print("alerta!")
+# no todo tiene porque se guardado por ejemplo un mensaje temporal no debe de guardarse
+# si guardamos todo en variables sin necesidad, gastamos memoria RAM por gusto
+# las variables se usan cuando ese dato lo vas a necesitar más adelante en el código
+
