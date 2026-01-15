@@ -11,5 +11,8 @@ puntuacion = 100 # recordad que si lo ponemos entre comillas el programa pensara
 # guardamos un decimal (float) en una variable llamada «precio»
 precio = 19.99 
 
-# Guardamos un booleano (bool) en una variable llamada «es_valido»
+# guardamos un booleano (bool) en una variable llamada «es_valido»
 es_valido = True
+
+# guardamos un nonetype (None) en una variable llamada «caja»
+caja = None
